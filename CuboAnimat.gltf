@@ -1,0 +1,431 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter r175"
+  },
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "translation": [
+        0,
+        0.006275177001953125,
+        0
+      ],
+      "name": "Cube",
+      "extras": {
+        "name": "Cube"
+      },
+      "mesh": 0
+    },
+    {
+      "name": "ProvaAnimazioniCubo.glb",
+      "children": [
+        0
+      ]
+    },
+    {
+      "translation": [
+        3.078590986671343,
+        2.6600027510834794,
+        2.299275879127186
+      ],
+      "name": "PointLight",
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 0
+        }
+      }
+    },
+    {
+      "translation": [
+        -4.45959893290471,
+        0.7255483423022973,
+        -2.335027916147177
+      ],
+      "name": "PointLight",
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 1
+        }
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 288,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 576,
+      "byteLength": 192,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 768,
+      "byteLength": 72,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 840,
+      "byteLength": 320
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1160,
+      "byteLength": 960
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2120,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2128,
+      "byteLength": 32
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2160,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2168,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2192,
+      "byteLength": 80
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2272,
+      "byteLength": 320
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2592,
+      "uri": "data:application/octet-stream;base64,AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/AACAvwAAgD8AAIA/AACAvwAAgD8AAIA/AACAvwAAgD8AAIA/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgD8AAIC/AACAvwAAgD8AAIC/AACAvwAAgD8AAIC/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgD8AAIC/AACAPwAAgD8AAIC/AACAPwAAgD8AAIC/AAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAgL8AAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAgD8AAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAgL8AAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAgD8AAAAAAACAPwAAAAAAAAAAAADAPgAAAAAAAAA+AACAPgAAwD4AAIA/AAAgPwAAAAAAAGA/AACAPgAAID8AAIA/AADAPgAAQD8AAAA+AAAAPwAAwD4AAEA/AAAgPwAAQD8AAGA/AAAAPwAAID8AAEA/AADAPgAAgD4AAMA+AACAPgAAwD4AAIA+AAAgPwAAgD4AACA/AACAPgAAID8AAIA+AADAPgAAAD8AAMA+AAAAPwAAwD4AAAA/AAAgPwAAAD8AACA/AAAAPwAAID8AAAA/AgAFAAsAAgALAAgABgAJABUABgAVABIAFAAXABEAFAARAA4ADAAPAAMADAADAAAABwATAA0ABwANAAEAFgAKAAQAFgAEABAAq6oqPauqqj0AAAA+q6oqPlVVVT4AAIA+VVWVPquqqj4AAMA+VVXVPquq6j4AAAA/q6oKP1VVFT8AACA/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"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.875,
+        1
+      ],
+      "min": [
+        0.125,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 36,
+      "max": [
+        23
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        3.3333332538604736
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0,
+        0.8655322790145874,
+        0
+      ],
+      "min": [
+        0,
+        0,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        3.3333332538604736
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        3.3333332538604736
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.8333333134651184
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0,
+        0.9936333298683167,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        -0.9936331510543823,
+        0,
+        0.11266230046749115
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "extensions": {
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "name": "PointLight",
+          "color": [
+            0.407240211891531,
+            0.22696587349938613,
+            0.6444796819634361
+          ],
+          "intensity": 5.9,
+          "type": "point"
+        },
+        {
+          "name": "PointLight",
+          "color": [
+            0.85499260812105,
+            0.010960094003125918,
+            0.010960094003125918
+          ],
+          "intensity": 6.2,
+          "type": "point"
+        }
+      ]
+    }
+  },
+  "animations": [
+    {
+      "name": "Float",
+      "samplers": [
+        {
+          "input": 4,
+          "output": 5,
+          "interpolation": "LINEAR"
+        },
+        {
+          "input": 6,
+          "output": 7,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 8,
+          "output": 9,
+          "interpolation": "STEP"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rotate",
+      "samplers": [
+        {
+          "input": 10,
+          "output": 11,
+          "interpolation": "LINEAR"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_lights_punctual"
+  ]
+}
